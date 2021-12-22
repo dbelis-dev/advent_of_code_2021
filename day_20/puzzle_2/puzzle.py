@@ -2,7 +2,7 @@ import sys
 import os
 import pprint
 
-iterations = 2
+iterations = 50
 rows = 100
 cols = 100
 padding = (iterations + 1) * 2
